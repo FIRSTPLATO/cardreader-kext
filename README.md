@@ -38,7 +38,7 @@ Yang memerlukan bantuan untuk patch Card Reader nya (totally FREE), silahkan mel
 
 Sumber :
 - https://noobsplanet.com/index.php?threads/fix-internal-external-card-reader-hackintosh-guide.32/
-- Grup Facebook Hackintosh Indonesia
+- Grup Facebook [Hackintosh Indonesia](https://web.facebook.com/groups/hackintosh.indonesia)
 
 Feel free to reach us on :
 - https://www.firstplato.com
