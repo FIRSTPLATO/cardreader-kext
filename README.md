@@ -12,8 +12,8 @@ Telah diuji coba dan berjalan dengan lancar pada :
 - Mac OS Big Sur 10.15.x
 
 Sebelum melakukan patch :
-- File AppleUSBCardReader.kext, yang ada di dalam folder System/Library/Extensions/AppleStorageDriver.kext.
-- File Sinetek-rtsx.kext. *Hanya diperlukan apabila mempergunakan Vendor Realtek PCIe versi lama
+- File [AppleUSBCardReader.kext](https://github.com/ares-x45c/cardreader-kext/blob/main/kext/AppleUSBCardReader.kext.zip), yang ada di dalam folder System/Library/Extensions/AppleStorageDriver.kext.
+- File [Sinetek-rtsx.kext](https://github.com/ares-x45c/cardreader-kext/blob/main/kext/Sinetek-rtsx.kext.zip). *Hanya diperlukan apabila mempergunakan Vendor Realtek PCIe versi lama
 - Lihat Vendor dan Device ID dari perangkat card reader yang dipakai, bisa dengan mempergunakan DPCIManager atau Hackintool. Perhatikan gambar berikut :
 
 ![](https://raw.githubusercontent.com/daniasefine/cardreader-kext/main/img/1.png)
