@@ -32,6 +32,10 @@ Cara melakukan patch :
 ![](https://raw.githubusercontent.com/FIRSTPLATO/cardreader-kext/main/img/3.png)
 > Hasil kext yang telah dipatch secara manual untuk Realtek RTL8411 pada Asus X45C, bekerja dengan sempurna.
 
+Yang memerlukan bantuan untuk patch Card Reader nya (totally FREE), silahkan melakukan :
+- Create new issue pada https://github.com/FIRSTPLATO/cardreader-kext/issues, dengan format judul #Request-Patch-nama, dan jangan lupa menyertakan lampiran Vendor dan Device ID dari DPCIManager atau Hackintool.
+- atau melalui WhatsApp ke no 08999-302-702, dengan lampiran screenshot DPCIManager atau Hackintool, untuk Vendor dan Device ID nya.
+
 Sumber :
 - https://noobsplanet.com/index.php?threads/fix-internal-external-card-reader-hackintosh-guide.32/
 - Grup Facebook Hackintosh Indonesia
