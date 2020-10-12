@@ -16,8 +16,8 @@ Sebelum melakukan patch :
 - File [Sinetek-rtsx.kext](https://github.com/ares-x45c/cardreader-kext/blob/main/kext/Sinetek-rtsx.kext.zip). *Hanya diperlukan apabila mempergunakan Vendor Realtek PCIe versi lama
 - Lihat Vendor dan Device ID dari perangkat card reader yang dipakai, bisa dengan mempergunakan DPCIManager atau Hackintool. Perhatikan gambar berikut :
 
-![](https://raw.githubusercontent.com/daniasefine/cardreader-kext/main/img/1.png)
-![](https://raw.githubusercontent.com/daniasefine/cardreader-kext/main/img/2.png)
+![](https://raw.githubusercontent.com/FIRSTPLATO/cardreader-kext/main/img/1.png)
+![](https://raw.githubusercontent.com/FIRSTPLATO/cardreader-kext/main/img/2.png)
 > yang di-highlight ungu itu adalah Vendor dan Device ID nya, misal pada gambar di atas, yang dipakai adalah 10EC dan 5289.
 
 Cara melakukan patch :
@@ -28,6 +28,9 @@ Cara melakukan patch :
 - Search Apple_Internal_SD_Card_Reader_2_00 dan edit string value idProduct dan idVendor ke desimal. (Sama persis seperti langkah sebelumnya)
 - Pastikan untuk mengubah semua value ke Physical Interconnect Location pada Apple_internal_SD_Card_Reader_1_00 dan Apple_Internal_SD_Card_Reader_2_00 ke External
 - Simpan AppleStorageDriver.kext siap digunakan langsung pada Clover maupun Opencore, tanpa perlu inject ke S/L/E dan L/E.
+
+![](https://raw.githubusercontent.com/FIRSTPLATO/cardreader-kext/main/img/3.png)
+> Hasil kext yang telah dipatch secara manual untuk Realtek RTL8411 pada Asus X45C, bekerja dengan sempurna.
 
 Sumber :
 - https://noobsplanet.com/index.php?threads/fix-internal-external-card-reader-hackintosh-guide.32/
