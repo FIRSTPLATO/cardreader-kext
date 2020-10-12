@@ -17,6 +17,7 @@ Sebelum melakukan patch :
 
 ![](https://raw.githubusercontent.com/daniasefine/cardreader-kext/main/img/1.png)
 ![](https://raw.githubusercontent.com/daniasefine/cardreader-kext/main/img/2.png)
+> yang di-highlight ungu itu adalah Vendor dan Device ID nya, misal pada gambar di atas, yang dipakai adalah 10EC dan 5289.
 
 Sumber :
 - https://noobsplanet.com/index.php?threads/fix-internal-external-card-reader-hackintosh-guide.32/
