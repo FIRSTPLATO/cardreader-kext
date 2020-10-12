@@ -35,3 +35,8 @@ Cara melakukan patch :
 Sumber :
 - https://noobsplanet.com/index.php?threads/fix-internal-external-card-reader-hackintosh-guide.32/
 - Grup Facebook Hackintosh Indonesia
+
+Feel free to reach us on :
+- https://www.firstplato.com
+- https://www.facebook.com/firstplato
+- admin@firstplato.com
