@@ -13,6 +13,7 @@ Telah diuji coba dan berjalan dengan lancar pada :
 
 Sebelum melakukan patch :
 - File AppleUSBCardReader.kext, yang ada di dalam folder System/Library/Extensions/AppleStorageDriver.kext.
+- File Sinetek-rtsx.kext. *Hanya diperlukan apabila mempergunakan Vendor Realtek PCIe versi lama
 - Lihat Vendor dan Device ID dari perangkat card reader yang dipakai, bisa dengan mempergunakan DPCIManager atau Hackintool. Perhatikan gambar berikut :
 
 ![](https://raw.githubusercontent.com/daniasefine/cardreader-kext/main/img/1.png)
