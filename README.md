@@ -2,7 +2,7 @@
 
 ## Internal and external USB and PCIe card reader for Mac OSX - [English](https://github.com/FIRSTPLATO/cardreader-kext/blob/main/README_en.md)
 
-Repo ini dibuat sebagai panduan dan referensi bagi yang teman-teman yang ingin mengaktifkan SD Card Reader pada Laptop atau Notebook yang dipakai, baik yang menggunakan USB maupun PCIe.
+Repo ini dibuat sebagai panduan dan referensi bagi teman-teman yang ingin mengaktifkan SD Card Reader pada Laptop atau Notebook yang dipakai, baik yang menggunakan USB maupun PCIe.
 
 Telah diuji coba dan berjalan dengan lancar pada :
 - Mac OS Siera 10.12.x
