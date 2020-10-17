@@ -9,7 +9,7 @@ Telah diuji coba dan berjalan dengan lancar pada :
 - Mac OS High Sierra 10.13.x
 - Mac OS Mojave 10.14.x
 - Mac OS Catalina 10.15.x
-- Mac OS Big Sur 10.15.x
+- Mac OS Big Sur 10.16.x
 
 Sebelum melakukan patch :
 - File [AppleUSBCardReader.kext](https://github.com/ares-x45c/cardreader-kext/blob/main/kext/AppleUSBCardReader.kext.zip), yang ada di dalam folder System/Library/Extensions/AppleStorageDriver.kext.
