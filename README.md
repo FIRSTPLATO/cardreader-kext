@@ -5,7 +5,7 @@
 Repo ini dibuat sebagai panduan dan referensi bagi teman-teman yang ingin mengaktifkan SD Card Reader pada Laptop atau Notebook yang dipakai, baik yang menggunakan USB maupun PCIe.
 
 Telah diuji coba dan berjalan dengan lancar pada :
-- Mac OS Siera 10.12.x
+- Mac OS Sierra 10.12.x
 - Mac OS High Sierra 10.13.x
 - Mac OS Mojave 10.14.x
 - Mac OS Catalina 10.15.x
